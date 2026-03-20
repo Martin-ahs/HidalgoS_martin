@@ -1,1 +1,1 @@
-# NO se que hice pero espero este bien
+# NO sé qué hice, pero espero que esté bien
