@@ -1,5 +1,6 @@
-# NO sé qué hice, pero espero que esté bien
-# Pd: https://martin-ahs.github.io/Tarea.github.io/ hice esto pq estaba como consigna creo
+#Tareas echas:
+- Paginaa web: https://github.com/Martin-ahs/Tarea.github.io
+- N8N: https://github.com/Martin-ahs/Sistema-de-gestion-de-comunicaciones
 ------------------------------------ ------------------------------------ ------------------------------------ ----------------------------
 3.1 Público Objetivo
 
